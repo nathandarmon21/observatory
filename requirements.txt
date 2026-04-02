@@ -1,0 +1,6 @@
+anthropic
+fastapi
+httpx
+uvicorn
+PyYAML
+websockets

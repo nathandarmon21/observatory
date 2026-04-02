@@ -1,0 +1,50 @@
+[
+  {
+    "run_id": "no_protocol_20260331_132931",
+    "protocol": "no_protocol",
+    "started_at": "2026-03-31T13:29:31.236982",
+    "completed_at": "2026-03-31T13:38:02.825265",
+    "final_day": 61,
+    "completed": true,
+    "total_contracts": 185,
+    "fraud_count": 4,
+    "avg_quality": 0.537,
+    "gini_coefficient": 0.052
+  },
+  {
+    "run_id": "peer_ratings_20260331_142204",
+    "protocol": "peer_ratings",
+    "started_at": "2026-03-31T14:22:04.608868",
+    "completed_at": "2026-03-31T14:22:04.611252",
+    "final_day": 4,
+    "completed": true,
+    "total_contracts": 5,
+    "fraud_count": 1,
+    "avg_quality": 0.373,
+    "gini_coefficient": 0.037
+  },
+  {
+    "run_id": "no_protocol_20260331_142210",
+    "protocol": "no_protocol",
+    "started_at": "2026-03-31T14:22:10.784012",
+    "completed_at": "2026-03-31T14:35:53.432411",
+    "final_day": 181,
+    "completed": true,
+    "total_contracts": 599,
+    "fraud_count": 19,
+    "avg_quality": 0.544,
+    "gini_coefficient": 0.066
+  },
+  {
+    "run_id": "no_protocol_20260331_151057",
+    "protocol": "no_protocol",
+    "started_at": "2026-03-31T15:10:57.372889",
+    "completed_at": "2026-03-31T18:37:10.097244",
+    "final_day": 31,
+    "completed": true,
+    "total_contracts": 66,
+    "fraud_count": 42,
+    "avg_quality": 0.227,
+    "gini_coefficient": 0.138
+  }
+]

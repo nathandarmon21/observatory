@@ -1,0 +1,84 @@
+{
+  "run_id": "peer_ratings_20260331_142204",
+  "protocol": "peer_ratings",
+  "started_at": "2026-03-31T14:22:04.608868",
+  "completed_at": "2026-03-31T14:22:04.611252",
+  "final_day": 4,
+  "max_days": 3,
+  "completed": true,
+  "agent_final_capitals": {
+    "aragorn": 502.57,
+    "galadriel": 476,
+    "saruman": 577.41,
+    "denethor": 523.6,
+    "legolas": 525.68,
+    "gimli": 476
+  },
+  "agent_final_health": {
+    "aragorn": "stable",
+    "galadriel": "stable",
+    "saruman": "stable",
+    "denethor": "stable",
+    "legolas": "stable",
+    "gimli": "stable"
+  },
+  "total_contracts": 5,
+  "fraud_count": 1,
+  "avg_quality": 0.373,
+  "gini_coefficient": 0.037,
+  "dominant_agent": "saruman",
+  "narrative_events": [],
+  "config": {
+    "protocol": {
+      "system": "peer_ratings"
+    },
+    "simulation": {
+      "max_days": 3,
+      "tick_interval_seconds": 0.0,
+      "starting_capital": 500,
+      "maintenance_cost": 8,
+      "seed": 42
+    },
+    "llm": {
+      "enabled": false
+    }
+  },
+  "capital_histories": {
+    "aragorn": [
+      500,
+      492,
+      484,
+      476
+    ],
+    "galadriel": [
+      500,
+      492,
+      484,
+      476
+    ],
+    "saruman": [
+      500,
+      492,
+      484,
+      577.41
+    ],
+    "denethor": [
+      500,
+      492,
+      484,
+      523.6
+    ],
+    "legolas": [
+      500,
+      492,
+      484,
+      476
+    ],
+    "gimli": [
+      500,
+      492,
+      484,
+      476
+    ]
+  }
+}
